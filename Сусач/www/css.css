@@ -1,0 +1,101 @@
+body
+{
+
+}
+
+div#t
+{
+	margin-top: 20px;
+	background-color: #004084;
+	color: Snow;
+}
+
+h1#title
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: Bold;
+	font-family: "Comic Sans MS";
+	text-align: center;
+	font-size: auto;
+	
+}
+
+div.well
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: groove black;
+	border-radius: 10px;
+	background-color: Slate gray;
+	padding: 5px;
+	font-size: auto;
+	font-family: "Comic Sans MS";
+	width: auto;
+}
+
+div.row
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: -20px;
+	margin-left: 0px;
+}
+
+div.col-sm-4
+{
+	margin-top: 15px;
+	width: auto;
+
+}
+
+
+div.col-sm-8
+{
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: auto;
+	padding-right: 0px;
+}
+
+p#Message
+{
+	margin-left: 5px;
+	margin-top: -15px;
+	margin-bottom: -5 px;
+	font-size: auto;
+	font-family: "Comic Sans MS";
+	font-weight: Bold;
+	color: green;
+}
+
+div.well#class_sub
+{
+	width: 300px;
+	background-color: red;
+}
+th
+{
+	font-family: "Comic Sans MS";
+	font-size: auto;
+	color: black;
+}
+
+div#help
+{
+	font-size: auto;
+	text-align: justify;
+	color: gray;
+	margin-top: 10 px;
+}
+
+div#help1
+{
+	text-align: center;
+	font-size: auto;
+	font-weight: bold;
+	color: black;
+	margin-top: 10 px;
+}
+
